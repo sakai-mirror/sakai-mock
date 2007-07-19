@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src/main/java"/>
-	<classpathentry kind="src" path="src/test/java"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/authz-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/entity-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/user-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/util-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/site-api"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/tool-api"/>
-	<classpathentry kind="var" path="MAVEN_REPO/commons-logging/jars/commons-logging-1.0.4.jar"/>
-	<classpathentry kind="var" path="MAVEN_REPO/junit/jars/junit-3.8.1.jar"/>
-	<classpathentry kind="output" path="bin"/>
+  <classpathentry kind="src" path="src/main/java"/>
+  <classpathentry kind="src" path="src/test/java"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/authz-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/entity-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/user-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/util-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/site-api"/>
+  <classpathentry combineaccessrules="false" kind="src" path="/tool-api"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+  <classpathentry kind="output" path="bin"/>
 </classpath>
