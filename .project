@@ -1,17 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>sakai-mock</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-	</natures>
+  <name>sakai-mock</name>
+  <comment/>
+  <projects>
+    <project>sakai-authz-api</project>
+    <project>sakai-entity-api</project>
+    <project>sakai-site-api</project>
+    <project>sakai-tool-api</project>
+    <project>sakai-user-api</project>
+    <project>sakai-util-api</project>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
 </projectDescription>
