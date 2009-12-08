@@ -83,9 +83,9 @@
     </repositories>
 
     <scm>
-        <connection>scm:svn:https://source.sakaiproject.org/svn/sakai-mock/branches/sakai-2.7.x</connection>
-        <developerConnection>scm:svn:https://source.sakaiproject.org/svn/sakai-mock/branches/sakai-2.7.x</developerConnection>
-        <url>https://source.sakaiproject.org/svn/sakai-mock/branches/sakai-2.7.x</url>
+        <connection>scm:svn:https://source.sakaiproject.org/svn/sakai-mock/branches/sakai-mock-2.7.x</connection>
+        <developerConnection>scm:svn:https://source.sakaiproject.org/svn/sakai-mock/branches/sakai-mock-2.7.x</developerConnection>
+        <url>https://source.sakaiproject.org/svn/sakai-mock/branches/sakai-mock-2.7.x</url>
     </scm>
 
     <dependencies>
