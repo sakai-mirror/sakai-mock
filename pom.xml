@@ -20,14 +20,6 @@
         <url>https://source.sakaiproject.org/svn/sakai-mock/branches/sakai-mock-2.9.x</url>
     </scm>
     
-    <distributionManagement>
-        <site>
-            <id>sakai-site</id>
-            <name>Sakai release Site</name>
-            <url>scpexe://source.sakaiproject.org/var/www/html/release/sakai-mock/${project.version}</url>
-        </site>
-    </distributionManagement>
-
     <dependencies>
         <dependency>
             <groupId>org.sakaiproject.kernel</groupId>
