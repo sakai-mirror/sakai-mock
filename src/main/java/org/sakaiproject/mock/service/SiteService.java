@@ -431,10 +431,6 @@ public class SiteService implements org.sakaiproject.site.api.SiteService {
     
     	public boolean getBooleanSiteProperty(String id, String propertyName){
 		return false;
-	}
-    
-	public boolean isJoinNotificationToggled(String id){
-		return false;
 	}	
     
     	public LinkedHashSet<String> getAllowedJoinableAccountTypeCategories(){
@@ -450,10 +446,6 @@ public class SiteService implements org.sakaiproject.site.api.SiteService {
 	}
     
     	public boolean isGlobalJoinGroupEnabled(){
-		return false;
-	}
-    
-    	public boolean isGlobalJoinNotificationEnabled(){
 		return false;
 	}
    
