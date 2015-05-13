@@ -270,4 +270,7 @@ public class UserDirectoryService implements
 		return null;
     }
 
+    public boolean checkDuplicatedEmail(User user) {
+        return false;
+    }
 }
